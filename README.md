@@ -5,7 +5,7 @@
 ---
 <p align="center">Nesse projeto vamos ver um retrato da cruel realidade to trânsito brasileiro e seus impactos no SUS.</p>
 
-<p float="left">
+<p float="center">
   <img src="https://lh5.googleusercontent.com/cSMRQ0gd81ZKFJFC_e9r8k-hJ1DN1cCPoEOvEGd2KHWCQl_53tODIpVYnPPhrnBVlR6g7Yq2zoX8oS38kBLn1brcztGzf27xKUc6WnCPiigzHqJM-eYhQY9y9DqqODj1GEXtBOXm" width="300" /> 
   <img src="https://imagens.ebc.com.br/xW00ic0F3GfBP38EX1X51XyHzoc=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mca_090120dsc_63675436.jpg?itok=yWT7WOva" width="325" />
 </p>
