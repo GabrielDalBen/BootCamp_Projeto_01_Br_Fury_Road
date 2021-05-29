@@ -15,7 +15,7 @@
 
 ## Banco de dados
 ---
-<p align="center"> :red_car: Para esse projeto foram utiliado dados obtidos do DATASUS e do IBGE. :red_car: </p>
+<p align="center"> :red_car: Esse projeto utilizou dados provenientes do DATASUS e IBGE :red_car: </p>
 
 
 
