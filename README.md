@@ -25,6 +25,30 @@
 
 Visualizar o impacto dos acidentes nas internações e nos gastos hospitalares</p>
 
+## Tabela de conteúdos
+---
+<!--ts-->
+   * INTRODUÇÃO
+   * IMPORTAÇÃO DAS BIBLIOTECAS
+   * PREPARAÇÃO DOS DADOS
+   * 1 - UM RETRATO DA VIOLÊNCIA DO TR NSITO BRASILEIRO
+      * Óbitos relacionados a escolaridade
+      * Óbitos relacionados à faixa etária
+      * Óbitos relacionados ao sexo
+      * O tamanho da frota de veículos influencia o número de acidentes?
+      * Os investimentos em infraestrutura explicam a queda no número de mortes?
+      * Em números absolutos, quais são os estados/regio]ões mais violentos no trânsito?
+      * Em números proporcionais (relação à população), quais são os estados mais violentos no trânsito?
+      * Quais são os tipos de acidentes que mais causam mortes?
+ 
+   * 2 - O SUS NO ATENDIMENTO ÀS VÍTIMAS O TR NSITO
+      * Óbitos sem internação hospitalar no SUS.
+      * Mortes e sobreviventes pós internação hospitalar no SUS
+      * Gastos por internações no SUS
+   * CONCLUSÃO
+   * REFERÊNCIAS BIBLIOGRÁFICAS
+
+
 
 ## Status do Projeto
 ---
