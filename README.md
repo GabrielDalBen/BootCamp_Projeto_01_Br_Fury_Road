@@ -6,6 +6,10 @@
 <p align="center">Nesse projeto vamos ver um retrato da cruel realidade to trânsito brasileiro e seus impactos no SUS.</p>
 
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](![image](https://user-images.githubusercontent.com/16099477/120081374-ba1b2a00-c093-11eb-8691-213db6b570bc.png))  |  ![](https://lh5.googleusercontent.com/cSMRQ0gd81ZKFJFC_e9r8k-hJ1DN1cCPoEOvEGd2KHWCQl_53tODIpVYnPPhrnBVlR6g7Yq2zoX8oS38kBLn1brcztGzf27xKUc6WnCPiigzHqJM-eYhQY9y9DqqODj1GEXtBOXm)
+
 
 
 ## Objetivos
