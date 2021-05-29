@@ -26,10 +26,17 @@
 Visualizar o impacto dos acidentes nas internações e nos gastos hospitalares</p>
 
 
+## Status do Projeto
+---
+<h4 align="center"> 🚀  - Finalizado -  🚀 </h4>
 
 
+## Conclusao
+---
 
+<p align="center">A situação do trânsito brasileiro, mesmo tendo demonstrado uma melhora nos últimos anos, ainda é altamente preocupante. O gigantesco número de mortos num período de 11 anos é assustadora. Além de investimentos em infraestrutura, medidas de fiscalização parecem ter influência na situação do trânsito brasileiro.
 
+Além da grande tragédia do número de mortos, os acidentes de trânsito também causam grande pressão no SUS. Embora a maioria das vítimas não chegam a ser hospitalizadas, um número gigantesco de pessoas ocupam leitos e utilizam recursos que poderiam ser destinados a outros agravos.</p>
 
 
 ### Autor
