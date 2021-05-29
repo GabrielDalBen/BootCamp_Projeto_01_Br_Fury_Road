@@ -7,12 +7,12 @@
 
 
 
-<p align="center">
-        <img "src="https://lh5.googleusercontent.com/cSMRQ0gd81ZKFJFC_e9r8k-hJ1DN1cCPoEOvEGd2KHWCQl_53tODIpVYnPPhrnBVlR6g7Yq2zoX8oS38kBLn1brcztGzf27xKUc6WnCPiigzHqJM-eYhQY9y9DqqODj1GEXtBOXm" width="350x;" style= "border-radius: 25% 10%" ; alt=""/>
- <br />
 
+## Objetivos
+---
+<p align="left"> Fazer um retrato da situação do trânsito brasileiro;
 
-
+Visualizar o impacto dos acidentes nas internações e nos gastos hospitalares</p>
 
 
 
