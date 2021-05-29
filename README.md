@@ -4,7 +4,7 @@
 ## Descrição do Projeto
 ---
 <p align="center">Nesse projeto vamos ver um retrato da cruel realidade to trânsito brasileiro e seus impactos no SUS.</p>
-<p align="center">:red_circle:Nesse projeto vamos ver um retrato da cruel realidade to trânsito brasileiro e seus impactos no SUS.:red_circle:</p>
+<p align="center">:red_circle:ATENÇÃO: Esse projeto apresenta alguns gráficos interativos que não renderizam no GitHub. Acessar o link para uma análise completa:red_circle:</p>
 
 <p float="left">
   <p align="center">
