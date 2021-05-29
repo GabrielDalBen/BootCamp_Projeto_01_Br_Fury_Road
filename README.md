@@ -13,6 +13,11 @@
 </p>
 
 
+## Banco de dados
+---
+<p align="center"> :red_car: Para esse projeto foram utiliado dados obtidos do DATASUS e do IBGE. :red_car: </p>
+
+
 
 ## Objetivos
 ---
