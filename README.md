@@ -13,10 +13,6 @@
 
 
 
-<p align="center">
-        <img "src="https://www.dpk.com.br/wp-content/uploads/2017/09/legislacao-001-1024x540.jpg" width="350x;" style= "border-radius: 25% 10%" ; alt=""/>
- <br />
-
 
 
 
