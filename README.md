@@ -6,9 +6,9 @@
 <p align="center">Nesse projeto vamos ver um retrato da cruel realidade to trânsito brasileiro e seus impactos no SUS.</p>
 
 <p float="left">
-  <img src="https://www.dpk.com.br/wp-content/uploads/2017/09/legislacao-001-1024x540.jpg" width="350" />
-  <img src="https://www.dpk.com.br/wp-content/uploads/2017/09/legislacao-001-1024x540.jpg" width="350" /> 
-  <img src="https://www.dpk.com.br/wp-content/uploads/2017/09/legislacao-001-1024x540.jpg" width="350" />
+  <img src="https://www.dpk.com.br/wp-content/uploads/2017/09/legislacao-001-1024x540.jpg" width="325" />
+  <img src="https://www.dpk.com.br/wp-content/uploads/2017/09/legislacao-001-1024x540.jpg" width="325" /> 
+  <img src="https://www.dpk.com.br/wp-content/uploads/2017/09/legislacao-001-1024x540.jpg" width="325" />
 </p>
 
 
