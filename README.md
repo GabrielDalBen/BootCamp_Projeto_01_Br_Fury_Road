@@ -47,19 +47,20 @@ Visualizar o impacto dos acidentes nas internações e nos gastos hospitalares</
       * Gastos por internações no SUS
    * CONCLUSÃO
    * REFERÊNCIAS BIBLIOGRÁFICAS
-      [1] - https://www.worldometers.info/world-population/population-by-country/
+   
+:newspaper:  https://www.worldometers.info/world-population/population-by-country/
 
-[2] - https://www.noticiasautomotivas.com.br/o-mundo-ja-tem-mais-de-1-bilhao-de-veiculos/
+:newspaper:  https://www.noticiasautomotivas.com.br/o-mundo-ja-tem-mais-de-1-bilhao-de-veiculos/
 
-[3] - https://cbie.com.br/artigos/como-e-feito-o-transporte-de-cargas-no-brasil/
+:newspaper:  https://cbie.com.br/artigos/como-e-feito-o-transporte-de-cargas-no-brasil/
 
-[4] - https://www.worldlifeexpectancy.com/country-health-profile/brazil
+:newspaper:  https://www.worldlifeexpectancy.com/country-health-profile/brazil
 
-[5] - https://www.cnt.org.br/agencia-cnt/nfraestrutura-deficiente-causa-acidentes-com-vitimas
+:newspaper:  https://www.cnt.org.br/agencia-cnt/nfraestrutura-deficiente-causa-acidentes-com-vitimas
 
-[6] - http://informe.ensp.fiocruz.br/noticias/46471
+:newspaper:  http://informe.ensp.fiocruz.br/noticias/46471
 
-[7] - http://www1.dnit.gov.br/oque.htm
+:newspaper:  http://www1.dnit.gov.br/oque.htm
 
 <!--te-->
 
