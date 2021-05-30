@@ -1,0 +1,22 @@
+ Procedimentos hospitalares do SUS - por local de internação - Brasil
+Óbitos por Caráter atendimento e Região
+Período:Jan/2008-Mar/2021
+"Caráter atendimento";"1 Região Norte";"2 Região Nordeste";"3 Região Sudeste";"4 Região Sul";"5 Região Centro-Oeste";"Total"
+"Eletivo";33877;107631;223317;70688;19291;454804
+"Urgência";284230;1259009;2688471;1044717;364101;5640528
+"Acidente no local trabalho ou a serv da empresa";-;-;12;2;1;15
+"Acidente no trajeto para o trabalho";-;-;3;-;-;3
+"Outros tipo de acidente de trânsito";666;6364;7549;2082;1311;17972
+"Out tp lesões e envenen por agent quím físicos";639;5603;17589;2962;1810;28603
+"Total";319412;1378607;2936941;1120451;386514;6141925
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 

@@ -1,0 +1,112 @@
+ Óbitos por Causas Externas - Brasil
+Óbitos p/Residênc por Categoria CID10 e Unidade da Federação
+Grande Grupo CID10: V01-V99 Acidentes de transporte
+Categoria CID10: V01   Pedestre traum colis veic a pedal, V02   Pedestre traum colis veic motor 2 3 rodas, V03   Pedestre traum colis automov pickup caminhon, V04   Pedestre traum colis veic transp pesado onib, V05   Pedestre traum colis trem veic ferroviario, V06   Pedestre traum colis outr veic nao-motoriz, V09   Pedestre traum outr acid transp e NE, V10   Ciclista traum colis pedestre animal, V11   Ciclista traum colis outr veic a pedal, V12   Ciclista traum colis veic motor 2 3 rodas, V13   Ciclista traum colis automov pickup caminhon, V14   Ciclis traum colis veic transp pesado onibus, V15   Ciclista traum colis trem veic ferroviario, V16   Ciclista traum colis outr veic nao-motoriz, V17   Ciclista traum colis objeto fixo ou parado, V18   Ciclista traum acid transp s/colis, V19   Ciclista traum acid transp e NE, V20   Motociclista traum colis pedestre animal, V21   Motociclista traum colis veic pedal, V22   Motocicl traum colis veic motor 2 3 rodas, V23   Motocicl traum colis automov pickup caminhon, V24   Motocicl traum colis veic transp pesado onib, V25   Motociclista traum colis trem veic ferrov, V26   Motocicl traum colis outr veic nao-motoriz, V27   Motocicl traum colis objeto fixo parado, V28   Motociclista traum acid transp s/colis, V29   Motociclista traum outr acid transp e NE, V30   Ocup tricicl mot traum colis pedestre animal, V31   Ocup tricicl motoriz traum colis veic pedal, V32   Ocup tric mot traum col out veic mot 2 3 rod, V33   Ocup tric mot traum col auto pickup caminhon, V34   Ocup tric mot traum col veic transp pes onib, V35   Ocup tricic mot traum colis trem veic ferrov, V36   Ocup tric mot traum colis outr veic n-motor, V37   Ocup tricic mot traum colis obj fixo parado, V38   Ocup tricic motor traum acid transp s/colis, V39   Ocup tricicl mot traum outr acid transp e NE, V40   Ocup automovel traum colis pedestre animal, V41   Ocup automovel traum colis veic a pedal, V42   Ocup autotraum colis outr veic mot 2 3 rodas, V43   Ocup automov traum col auto pickup caminhon, V44   Ocup autom traum colis veic trans pesad onib, V45   Ocup automovel traum colis trem veic ferrov, V46   Ocup automov traum colis outr veic n-motor, V47   Ocup automovel traum colis obj fixo parado, V48   Ocup automovel traum acid transp s/colis, V49   Ocup automovel traum outr acid transp e NE, V50   Ocup caminhonete traum colis pedestre animal, V51   Ocup caminhonete traum colis veic pedal, V52   Ocup caminhon traum colis veic mot 2 3 rodas, V53   Ocup caminhon traum colis automov caminhon, V54   Ocup caminhon traum col veic transp pes onib, V55   Ocup caminhon traum colis trem veic ferrov, V56   Ocup caminhonete traum colis outr veic n-mot, V57   Ocup caminhonete traum colis obj fixo parado, V58   Ocup caminhonete traum acid transp s/colis, V59   Ocup caminhonete traum outr acid transp NE, V60   Ocup veic transp pesado traum colis ped anim, V61   Ocup veic transp pesado traum col veic pedal, V62   Ocup v transp pes traum col veic mot 2 3 rod, V63   Ocup veic tr pesado traum col auto caminhon, V64   Ocup v tr pes tr col outr veic tr pes onib, V65   Ocup veic tr pes traum col trem veic ferrov, V66   Ocup veic tr pesado traum col out veic n-mot, V67   Ocup veic tr pesado traum col obj fixo parad, V68   Ocup veic tr pesado traum ac transp s/colis, V69   Ocup veic tr pesado traum outr ac transp NE, V70   Ocup onibus traum colis pedestre animal, V71   Ocup onibus traum colis veic a pedal, V72   Ocup onibus traum col out veic mot 2 3 rodas, V73   Ocup onibus traum colis automovel caminhonet, V74   Ocup onibus traum colis veic transp pes onib, V75   Ocup onibus traum colis trem veic ferrov, V76   Ocup onibus traum colis outr veic n-motor, V77   Ocup onibus traum colis objeto fixo parado, V78   Ocup onibus traum acid transp s/colis, V79   Ocup onibus traum outr acid transp e NE, V80   Pess mont anim oc veic anim traum ac transp, V81   Ocup trem veic ferroviario traum acid transp, V82   Ocup de um bonde traum acid transp, V83   Ocup veic esp mot area ind traum ac transp, V84   Ocup veic esp mot uso agric traum acid trans, V85   Ocup veic mot esp constr traum acid transp, V86   Ocup veic outr uso n-via pub traum ac transp, V87   Acid trans tipo espec desconh mod transp vit, V88   Ac n-trans tipo espec desconh mod transp vit, V89   Acid veic mot n-mot tipos de veic NE, V90   Acid embarcacao caus afogamento submersao, V91   Acid embarcacao causando outr tipo de traum, V92   Afog submers rel transp agua s/acid embarc, V93   Acid bord emb s/ac bem n caus afog submers, V94   Outr acid transp p/agua e os NE, V95   Acid de aeronave mot causando traum ao ocup, V96   Acid aeronave s/motor causando traum a ocup, V97   Outr acid espec de transporte aereo, V98   Outr acid transp espec, V99   Acid transp NE
+Período:2009-2019
+"Categoria CID10";"RO";"AC";"AM";"RR";"PA";"AP";"TO";"MA";"PI";"CE";"RN";"PB";"PE";"AL";"SE";"BA";"MG";"ES";"RJ";"SP";"PR";"SC";"RS";"MS";"MT";"GO";"DF";"Total"
+"V01   Pedestre traum colis veic a pedal";2;1;2;1;24;-;3;30;6;40;3;6;15;4;3;8;48;3;16;78;17;7;6;3;8;10;2;346
+"V02   Pedestre traum colis veic motor 2 3 rodas";97;46;128;10;212;28;90;503;359;366;90;117;570;58;221;316;905;92;428;1891;646;335;392;185;165;409;130;8789
+"V03   Pedestre traum colis automov pickup caminhon";104;42;115;69;361;66;103;450;321;379;174;392;607;74;327;344;1325;126;1296;3979;2118;1138;1253;446;219;551;460;16839
+"V04   Pedestre traum colis veic transp pesado onib";56;29;59;13;155;13;51;224;186;142;29;55;312;32;174;260;837;77;829;2215;718;444;561;171;150;315;141;8248
+"V05   Pedestre traum colis trem veic ferroviario";-;-;1;-;5;1;1;43;9;50;12;21;15;4;-;22;221;16;571;582;151;22;29;7;2;6;1;1792
+"V06   Pedestre traum colis outr veic nao-motoriz";8;-;4;-;16;1;-;19;5;9;3;1;13;2;-;8;27;-;10;29;5;6;8;1;2;9;3;189
+"V09   Pedestre traum outr acid transp e NE";293;27;1269;84;3596;55;343;1086;439;3339;423;383;2678;850;221;3272;3793;1580;5887;9603;2749;981;1968;245;720;1704;656;48244
+"V10   Ciclista traum colis pedestre animal";-;-;2;1;1;-;2;7;7;9;3;3;9;2;1;5;9;-;1;10;4;5;4;2;1;2;-;90
+"V11   Ciclista traum colis outr veic a pedal";4;-;1;-;1;-;-;6;4;3;-;2;6;-;5;3;10;2;5;30;9;1;1;4;3;3;2;105
+"V12   Ciclista traum colis veic motor 2 3 rodas";56;16;16;16;48;10;34;105;123;102;31;14;74;12;42;38;142;22;97;245;141;160;77;123;101;127;19;1991
+"V13   Ciclista traum colis automov pickup caminhon";75;19;22;73;53;33;48;119;150;153;31;29;119;24;97;69;320;35;317;756;503;452;312;251;123;244;146;4573
+"V14   Ciclis traum colis veic transp pesado onibus";46;12;6;14;60;10;25;91;79;62;25;11;74;15;30;52;245;26;194;534;287;238;160;137;104;138;55;2730
+"V15   Ciclista traum colis trem veic ferroviario";-;-;-;-;-;-;2;4;-;1;-;-;1;-;-;1;4;-;5;3;1;1;2;-;-;-;-;25
+"V16   Ciclista traum colis outr veic nao-motoriz";-;-;-;-;1;-;-;3;-;1;2;1;2;-;2;1;5;-;1;3;2;-;5;-;-;-;-;29
+"V17   Ciclista traum colis objeto fixo ou parado";6;1;2;1;4;-;5;10;4;19;2;2;22;1;5;13;110;5;24;90;47;31;28;4;10;15;3;464
+"V18   Ciclista traum acid transp s/colis";19;6;18;7;31;3;21;44;59;91;22;57;86;51;36;97;257;83;150;427;238;93;82;49;38;111;34;2210
+"V19   Ciclista traum acid transp e NE";44;11;11;13;151;8;34;139;63;140;48;79;221;21;17;122;336;69;110;749;217;132;135;42;86;122;21;3141
+"V20   Motociclista traum colis pedestre animal";41;12;17;21;139;5;58;356;448;207;108;81;251;54;193;190;193;11;82;216;101;57;67;53;72;89;21;3143
+"V21   Motociclista traum colis veic pedal";14;4;8;1;54;-;9;62;29;75;12;8;18;13;16;9;21;10;14;49;36;21;12;13;20;16;2;546
+"V22   Motocicl traum colis veic motor 2 3 rodas";234;55;267;49;425;20;115;760;673;663;180;176;644;91;342;295;428;85;271;528;357;324;201;196;289;332;27;8027
+"V23   Motocicl traum colis automov pickup caminhon";462;90;363;226;543;64;398;1170;1214;932;378;346;1370;316;751;667;1506;246;1266;3780;2853;2211;1485;956;943;1711;419;26666
+"V24   Motocicl traum colis veic transp pesado onib";314;49;236;58;468;26;263;743;571;413;154;157;695;122;407;459;1269;178;721;2619;1498;1235;849;553;755;969;164;15945
+"V25   Motociclista traum colis trem veic ferrov";-;-;-;-;1;-;1;2;5;8;1;-;2;-;-;1;5;-;6;9;7;7;5;1;1;2;1;65
+"V26   Motocicl traum colis outr veic nao-motoriz";11;1;-;-;12;-;4;47;6;14;13;5;24;12;21;27;26;3;10;26;19;4;23;13;4;14;1;340
+"V27   Motocicl traum colis objeto fixo parado";112;55;211;51;241;15;129;637;604;498;177;161;402;101;300;307;838;131;704;2092;976;811;521;364;436;671;118;11663
+"V28   Motociclista traum acid transp s/colis";233;34;388;78;611;26;240;994;1620;1437;249;375;1367;770;653;847;771;88;1042;1524;821;493;423;416;448;710;189;16847
+"V29   Motociclista traum outr acid transp e NE";522;18;192;115;2800;54;1007;2741;1481;3844;1465;2346;3526;362;326;4142;3908;2483;988;6281;1251;692;680;204;1392;1312;92;44224
+"V30   Ocup tricicl mot traum colis pedestre animal";1;-;-;-;1;-;-;4;-;-;-;-;1;-;-;-;1;-;-;3;-;-;3;-;-;1;1;16
+"V31   Ocup tricicl motoriz traum colis veic pedal";-;-;-;-;1;-;-;-;-;-;-;1;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;3
+"V32   Ocup tric mot traum col out veic mot 2 3 rod";-;-;-;-;2;-;-;2;2;2;1;-;2;-;2;2;4;-;-;1;-;-;-;1;2;1;-;24
+"V33   Ocup tric mot traum col auto pickup caminhon";-;-;-;-;-;-;-;2;2;1;1;1;1;-;-;-;8;-;3;5;4;1;-;1;-;2;1;33
+"V34   Ocup tric mot traum col veic transp pes onib";2;-;-;-;1;2;-;1;1;3;2;-;4;-;-;3;16;1;3;9;4;6;6;1;2;-;1;68
+"V35   Ocup tricic mot traum colis trem veic ferrov";1;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-;-;-;-;1;1;1;1;-;-;-;-;7
+"V36   Ocup tric mot traum colis outr veic n-motor";1;-;-;-;1;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1;1;-;-;-;-;-;1;6
+"V37   Ocup tricic mot traum colis obj fixo parado";-;-;-;-;3;-;-;2;-;1;1;-;3;-;1;-;6;-;4;4;2;2;1;-;3;2;-;35
+"V38   Ocup tricic motor traum acid transp s/colis";-;1;2;-;1;-;-;4;-;-;-;1;4;1;4;3;6;1;4;7;1;5;-;-;3;5;1;54
+"V39   Ocup tricicl mot traum outr acid transp e NE";9;-;1;5;22;1;2;10;-;13;4;2;17;7;-;13;38;5;6;62;47;19;8;1;4;13;5;314
+"V40   Ocup automovel traum colis pedestre animal";7;-;-;-;8;1;19;22;13;18;8;14;19;4;17;44;51;2;15;96;25;25;31;21;14;37;3;514
+"V41   Ocup automovel traum colis veic a pedal";12;-;1;-;1;-;-;9;-;3;1;2;1;-;-;-;5;-;1;6;1;2;3;-;-;2;-;50
+"V42   Ocup autotraum colis outr veic mot 2 3 rodas";3;2;17;3;10;-;10;56;12;33;17;14;26;8;27;35;57;6;32;82;37;60;31;16;15;21;6;636
+"V43   Ocup automov traum col auto pickup caminhon";93;17;74;21;88;32;122;177;201;169;137;79;413;126;261;286;1161;122;747;2235;2312;1640;1571;544;324;809;469;14230
+"V44   Ocup autom traum colis veic trans pesad onib";114;25;88;13;90;16;97;187;190;136;52;47;396;61;211;411;1579;175;775;2182;2094;1643;1523;564;470;732;202;14073
+"V45   Ocup automovel traum colis trem veic ferrov";1;-;-;1;1;-;-;5;-;4;-;2;6;4;-;-;14;2;8;16;13;7;4;5;1;1;-;95
+"V46   Ocup automov traum colis outr veic n-motor";-;-;1;-;2;-;3;6;1;1;2;3;5;1;5;14;11;-;1;14;14;9;5;-;2;1;3;104
+"V47   Ocup automovel traum colis obj fixo parado";26;11;98;15;53;12;46;136;110;87;25;23;141;33;82;171;813;69;710;1833;1194;848;1056;217;173;323;243;8548
+"V48   Ocup automovel traum acid transp s/colis";178;38;210;95;266;41;321;314;397;378;156;107;851;139;289;674;1315;141;623;1687;1592;861;902;559;547;1302;502;14485
+"V49   Ocup automovel traum outr acid transp e NE";420;20;112;115;769;15;769;1012;322;2062;584;1246;1483;98;183;6737;10418;2557;1157;6575;2190;792;1037;113;1089;1736;377;43988
+"V50   Ocup caminhonete traum colis pedestre animal";-;-;-;1;2;-;-;1;1;1;-;3;3;-;-;-;3;-;-;8;1;2;-;7;5;2;-;40
+"V52   Ocup caminhon traum colis veic mot 2 3 rodas";-;-;-;-;1;-;-;1;3;1;-;-;-;-;-;1;3;-;-;4;-;1;2;1;-;1;-;19
+"V53   Ocup caminhon traum colis automov caminhon";6;-;4;-;6;-;3;12;5;4;6;-;16;-;-;5;28;4;5;38;38;26;63;23;18;21;18;349
+"V54   Ocup caminhon traum col veic transp pes onib";19;-;3;2;22;3;16;34;33;16;6;3;30;9;-;39;115;12;21;157;141;63;146;78;108;76;18;1170
+"V55   Ocup caminhon traum colis trem veic ferrov";1;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;2;1;-;-;-;1;-;-;-;-;-;7
+"V56   Ocup caminhonete traum colis outr veic n-mot";-;1;-;-;-;-;-;2;-;-;-;-;-;3;-;-;-;-;-;1;-;-;2;-;-;-;-;9
+"V57   Ocup caminhonete traum colis obj fixo parado";8;-;2;2;10;-;7;9;5;5;2;1;5;6;-;7;40;1;20;46;49;36;48;26;19;8;11;373
+"V58   Ocup caminhonete traum acid transp s/colis";31;3;10;11;38;2;31;29;67;41;16;8;60;5;-;32;82;5;24;104;95;40;91;110;108;60;29;1132
+"V59   Ocup caminhonete traum outr acid transp NE";10;1;2;6;29;1;8;31;16;24;11;8;29;2;-;41;53;4;11;83;51;34;28;5;25;36;7;556
+"V60   Ocup veic transp pesado traum colis ped anim";3;-;-;-;2;-;2;4;1;3;1;2;3;-;3;3;9;-;2;5;3;2;3;-;3;-;-;54
+"V61   Ocup veic transp pesado traum col veic pedal";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;2;-;-;-;-;-;4
+"V62   Ocup v transp pes traum col veic mot 2 3 rod";1;-;-;-;2;-;1;3;-;2;1;-;1;1;3;1;8;7;-;5;1;1;1;-;-;3;-;42
+"V63   Ocup veic tr pesado traum col auto caminhon";4;2;1;-;6;-;2;12;1;7;6;3;8;6;10;12;33;6;18;49;29;29;40;8;13;20;8;333
+"V64   Ocup v tr pes tr col outr veic tr pes onib";43;2;6;1;21;2;40;28;20;27;4;6;45;15;27;75;273;73;79;451;315;218;211;79;119;136;17;2333
+"V65   Ocup veic tr pes traum col trem veic ferrov";1;-;-;-;-;-;-;2;-;1;1;6;-;-;-;1;-;-;1;2;4;-;1;-;2;1;-;23
+"V66   Ocup veic tr pesado traum col out veic n-mot";-;-;-;-;2;-;-;-;-;2;-;-;-;3;-;-;1;-;-;2;1;1;-;-;2;-;-;14
+"V67   Ocup veic tr pesado traum col obj fixo parad";2;-;2;-;12;1;2;6;6;9;1;5;40;10;8;13;67;16;41;138;82;76;64;16;15;19;5;656
+"V68   Ocup veic tr pesado traum ac transp s/colis";58;10;12;4;109;1;55;100;81;90;24;30;143;28;117;162;400;82;144;532;429;253;289;142;174;218;28;3715
+"V69   Ocup veic tr pesado traum outr ac transp NE";26;1;13;3;49;4;17;98;20;38;5;29;98;9;8;76;252;60;69;270;148;77;107;27;100;78;8;1690
+"V70   Ocup onibus traum colis pedestre animal";-;-;-;-;1;-;-;2;-;1;-;1;-;-;-;-;1;-;-;2;-;-;1;-;-;-;-;9
+"V71   Ocup onibus traum colis veic a pedal";1;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;-;-;-;4
+"V72   Ocup onibus traum col out veic mot 2 3 rodas";1;-;-;-;-;-;-;-;-;5;1;1;1;-;1;1;4;-;-;3;-;-;2;-;-;-;-;20
+"V73   Ocup onibus traum colis automovel caminhonet";-;-;3;-;-;-;2;-;3;2;1;2;1;-;1;1;7;-;13;9;16;6;6;2;2;2;2;81
+"V74   Ocup onibus traum colis veic transp pes onib";8;-;11;-;14;1;2;11;6;5;-;2;21;7;2;31;69;13;21;83;67;19;52;11;4;31;6;497
+"V75   Ocup onibus traum colis trem veic ferrov";1;-;-;-;1;-;-;-;-;1;-;-;-;-;-;-;5;-;-;12;2;-;-;-;-;-;-;22
+"V76   Ocup onibus traum colis outr veic n-motor";-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;2;1;-;-;1;1;-;-;6
+"V77   Ocup onibus traum colis objeto fixo parado";1;1;1;-;-;-;-;1;3;7;1;-;1;3;-;1;6;2;32;36;17;4;7;1;1;2;1;129
+"V78   Ocup onibus traum acid transp s/colis";6;2;1;1;15;-;6;25;12;28;3;6;6;12;1;39;92;5;55;121;83;25;49;12;3;18;13;639
+"V79   Ocup onibus traum outr acid transp e NE";11;1;6;-;38;-;5;34;7;19;8;20;37;3;1;35;47;17;38;108;47;11;21;3;14;35;6;572
+"V80   Pess mont anim oc veic anim traum ac transp";38;12;11;7;130;-;62;156;87;97;37;48;193;47;97;337;407;42;80;220;132;40;154;79;111;188;21;2833
+"V81   Ocup trem veic ferroviario traum acid transp";6;-;-;-;-;1;-;11;3;7;6;2;1;6;-;3;13;-;53;50;4;1;1;-;-;1;1;170
+"V82   Ocup de um bonde traum acid transp";1;-;-;2;8;2;1;9;1;4;1;1;8;1;-;4;10;-;6;21;3;2;6;1;-;6;1;99
+"V83   Ocup veic esp mot area ind traum ac transp";1;-;-;2;13;4;3;4;2;2;2;-;6;5;-;2;9;4;3;26;6;7;5;4;4;-;-;114
+"V84   Ocup veic esp mot uso agric traum acid trans";13;1;1;1;23;-;30;23;12;4;3;4;26;7;1;54;208;13;17;186;228;127;361;87;48;114;10;1602
+"V85   Ocup veic mot esp constr traum acid transp";2;-;2;-;13;-;1;7;3;4;-;2;-;3;-;9;13;-;4;16;4;7;7;2;5;4;1;109
+"V86   Ocup veic outr uso n-via pub traum ac transp";6;1;1;-;4;-;3;9;3;5;1;3;3;1;-;7;37;6;4;30;19;8;10;-;6;-;-;167
+"V87   Acid trans tipo espec desconh mod transp vit";155;24;20;8;578;13;124;527;45;1333;111;77;108;24;2;182;349;19;350;953;463;155;143;15;257;255;33;6323
+"V88   Ac n-trans tipo espec desconh mod transp vit";9;1;-;1;23;1;5;14;4;13;8;10;11;18;2;17;34;4;4;47;1;11;10;3;15;7;3;276
+"V89   Acid veic mot n-mot tipos de veic NE";1645;699;789;240;3261;586;787;3142;1024;4262;1288;3297;2648;4297;199;5593;6615;1728;6599;13393;4817;1598;4324;555;1784;4232;376;79778
+"V90   Acid embarcacao caus afogamento submersao";8;10;281;7;119;22;6;48;9;25;2;2;7;-;1;9;15;2;37;45;55;11;13;14;19;8;6;781
+"V91   Acid embarcacao causando outr tipo de traum";1;14;25;1;47;4;1;8;2;1;-;1;2;-;-;11;5;3;7;24;14;6;7;2;4;-;3;193
+"V92   Afog submers rel transp agua s/acid embarc";-;8;173;-;36;3;3;15;3;5;1;-;3;-;-;2;3;1;8;21;11;4;6;1;11;3;-;321
+"V93   Acid bord emb s/ac bem n caus afog submers";-;4;5;-;10;-;-;2;2;1;-;-;1;-;-;2;-;3;15;10;1;3;1;-;1;1;1;63
+"V94   Outr acid transp p/agua e os NE";2;6;7;-;7;4;3;2;-;1;-;-;1;1;-;4;4;-;10;4;1;1;2;-;4;7;-;71
+"V95   Acid de aeronave mot causando traum ao ocup";5;5;68;7;76;4;9;24;10;7;4;2;19;3;5;18;56;5;61;159;56;26;43;28;49;64;16;829
+"V96   Acid aeronave s/motor causando traum a ocup";1;-;-;-;4;-;-;5;1;3;-;4;2;-;-;-;10;2;15;18;5;4;4;1;4;5;2;90
+"V97   Outr acid espec de transporte aereo";2;-;9;1;18;-;1;1;-;-;-;-;1;1;-;5;9;1;7;23;18;5;5;5;2;2;3;119
+"V98   Outr acid transp espec";3;-;1;-;35;1;1;21;1;9;2;5;3;1;-;8;14;-;2;31;3;4;3;-;9;3;-;160
+"V99   Acid transp NE";52;3;7;14;1123;25;152;161;70;1664;198;98;213;15;10;1160;1573;12;77;1663;40;57;114;21;209;101;16;8848
+"Total";5813;1454;5419;1491;17241;1243;5766;16979;11288;23696;6389;10064;20300;8026;5771;27971;44048;10605;27087;72380;32806;18826;21924;7852;12019;20348;5192;441998
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
+ 

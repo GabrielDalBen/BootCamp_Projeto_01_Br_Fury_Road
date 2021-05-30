@@ -1,0 +1,22 @@
+ Óbitos por Causas Externas - Brasil
+Óbitos p/Residênc por Grande Grupo CID10 e Unidade da Federação
+Período:2009-2019
+"Grande Grupo CID10";"RO";"AC";"AM";"RR";"PA";"AP";"TO";"MA";"PI";"CE";"RN";"PB";"PE";"AL";"SE";"BA";"MG";"ES";"RJ";"SP";"PR";"SC";"RS";"MS";"MT";"GO";"DF";"Total"
+"V01-V99 Acidentes de transporte";5813;1454;5419;1491;17241;1243;5766;16979;11288;23696;6389;10064;20300;8026;5771;27971;44048;10605;27087;72380;32806;18826;21924;7852;12019;20348;5192;441998
+"W00-X59 Outras causas externas de lesões acident";2675;1061;6531;841;10111;962;2509;8420;3785;12129;3679;5185;14805;4395;3470;19981;29684;9178;37628;68606;19961;10173;18014;4553;5651;11196;4031;319214
+"X60-X84 Lesões autoprovocadas voluntariamente";1078;539;2296;434;2820;451;1104;2824;2914;6290;1872;2173;3896;1268;1321;5507;14645;2038;5667;23911;7842;6855;12949;2489;2015;4735;1607;121540
+"X85-Y09 Agressões";5889;2986;14796;2148;39954;3103;4681;21607;6228;41104;15600;15362;42069;20417;11178;65383;45270;16776;54784;56899;32622;9358;27966;6957;11863;28387;8303;611690
+"Y10-Y34 Eventos cuja intenção é indeterminada";348;110;418;393;1870;186;391;1288;1023;5672;2384;620;7826;197;940;17512;15410;2017;20716;29718;3960;1047;3542;796;1237;1554;282;121457
+"Y35-Y36 Intervenções legais e operações de guerra";12;-;1;5;122;134;68;15;13;36;10;12;24;3;10;2911;101;20;4173;2341;756;228;234;137;77;283;23;11749
+"Y40-Y84 Complic assistência médica e cirúrgica";104;54;46;4;228;26;27;864;89;839;577;107;420;315;82;1143;1775;130;3237;3817;367;301;564;192;54;307;57;15726
+"Y85-Y89 Seqüelas de causas externas";34;9;42;6;116;2;37;114;85;133;27;40;223;39;20;278;447;290;245;999;847;183;501;128;76;258;148;5327
+"Total";15953;6213;29549;5322;72462;6107;14583;52111;25425;89899;30538;33563;89563;34660;22792;140686;151380;41054;153537;258671;99161;46971;85694;23104;32992;67068;19643;1648701
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
+ 

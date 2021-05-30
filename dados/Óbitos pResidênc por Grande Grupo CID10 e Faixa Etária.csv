@@ -1,0 +1,16 @@
+ Óbitos por Causas Externas - Brasil
+Óbitos p/Residênc por Grande Grupo CID10 e Faixa Etária
+Grande Grupo CID10: V01-V99 Acidentes de transporte
+Período:2009-2019
+"Grande Grupo CID10";"Menor 1 ano";"1 a 4 anos";"5 a 9 anos";"10 a 14 anos";"15 a 19 anos";"20 a 29 anos";"30 a 39 anos";"40 a 49 anos";"50 a 59 anos";"60 a 69 anos";"70 a 79 anos";"80 anos e mais";"Idade ignorada";"Total"
+"V01-V99 Acidentes de transporte";1160;3885;4921;7222;34496;107263;87227;69674;54312;35902;22221;10711;3004;441998
+"Total";1160;3885;4921;7222;34496;107263;87227;69674;54312;35902;22221;10711;3004;441998
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
+ 

@@ -1,0 +1,22 @@
+ Procedimentos hospitalares do SUS - por local de internação - Brasil
+Internações por Caráter atendimento e Ano atendimento
+Período:Jan/2008-Mar/2021
+"Caráter atendimento";"2007";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"2021";"Total"
+"Eletivo";103505;2111338;2139736;2212451;2242491;2133793;2190975;2297549;2255680;2188013;2270387;2475002;2592470;1649659;301030;29164079
+"Urgência";486497;8562651;8836369;9004029;8900792;8850655;8872479;8936716;8960573;8956963;9150477;9285627;9501285;8747734;1617500;118670347
+"Acidente no local trabalho ou a serv da empresa";9;125;183;113;91;86;64;63;22;21;35;15;56;28;4;915
+"Acidente no trajeto para o trabalho";8;15;20;6;5;21;24;24;17;6;9;6;9;6;1;177
+"Outros tipo de acidente de trânsito";4487;54342;37939;42087;40984;40257;41463;44125;39305;42798;38258;35637;33733;33903;5470;534788
+"Out tp lesões e envenen por agent quím físicos";8456;120081;95486;88454;82722;78407;74433;75226;69824;68414;63679;61360;57886;48194;6918;999540
+"Total";602962;10848552;11109733;11347140;11267085;11103219;11179438;11353703;11325421;11256215;11522845;11857647;12185439;10479524;1930923;149369846
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 
