@@ -74,15 +74,7 @@ Visualizar o impacto dos acidentes nas internações e nos gastos hospitalares</
 ## Conclusão
 ---
 
-<p align="center">A situação do trânsito brasileiro, mesmo tendo demonstrado uma melhora nos últimos anos, ainda é altamente preocupante. O gigantesco número de mortos num período de 11 anos é assustadora. 
-
-O retrato socioeconômico mostra que um grupo específico da população está mais sujeita a morte no trânsito.
-
-Além de investimentos em infraestrutura, medidas de fiscalização e educação parecem ter efeito positivo na situação do trânsito brasileiro.
-
-Além da grande tragédia do número de mortos, os acidentes de trânsito também causam grande pressão no SUS. 
-
-Embora a maioria das vítimas não chegam a ser hospitalizadas, um número gigantesco de pessoas ocupam leitos e utilizam recursos que poderiam ser destinados a outros agravos.</p>
+<p align="center">A situação do trânsito brasileiro, mesmo tendo demonstrado uma melhora nos últimos anos, ainda é altamente preocupante. O gigantesco número de mortos num período de 11 anos é assustadora. O retrato socioeconômico mostra que um grupo específico da população está mais sujeita a morte no trânsito. Desse modo, investimentos em fiscalização e educação podem ter efeito positivo na situação do trânsito brasileiro, principalmente quando aliados a investimentos em infraestrutura. Além da grande tragédia do número de mortos, os acidentes de trânsito também causam grande pressão no SUS. Embora a maioria das vítimas não chegam a ser hospitalizadas, um número gigantesco de pessoas ocupam leitos e utilizam recursos que poderiam ser destinados a outros agravos.</p>
 
 
 ### Autor
