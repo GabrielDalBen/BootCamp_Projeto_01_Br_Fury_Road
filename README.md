@@ -1,16 +1,18 @@
 <h1 align="center">Brasil Fury Road</h1>
 
+<p align="center">:red_circle::red_circle:ATENÇÃO: Alguns gráficos interativos desse projeto não abrem no GitHub. Acesse o Link:_______________ para visualização completa no Google Colab. :red_circle::red_circle:</p>
+
 
 ## Descrição do Projeto
 ---
-<p align="center">Nesse projeto vamos ver um retrato da cruel realidade to trânsito brasileiro e seus impactos no SUS.</p>
-<p align="center">:red_circle::red_circle:ATENÇÃO: Esse projeto apresenta alguns gráficos interativos que não renderizam no GitHub. Acessar o link para uma análise completa:red_circle::red_circle:</p>
+<p align="center">O trânsito brasileiro é responsável por mais mortes do que diversas doenças, esse caos nas estradas brasileiras se deve a um conjunto de fatores. Nesse projeto vamos ver um retrato da cruel realidade do trânsito no Brasil e alguns de seus impactos no SUS..</p>
 
 <p float="left">
   <p align="center">
   <img src="https://lh5.googleusercontent.com/cSMRQ0gd81ZKFJFC_e9r8k-hJ1DN1cCPoEOvEGd2KHWCQl_53tODIpVYnPPhrnBVlR6g7Yq2zoX8oS38kBLn1brcztGzf27xKUc6WnCPiigzHqJM-eYhQY9y9DqqODj1GEXtBOXm" width="300" /> 
   <img src="https://imagens.ebc.com.br/xW00ic0F3GfBP38EX1X51XyHzoc=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mca_090120dsc_63675436.jpg?itok=yWT7WOva" width="325" />
 </p>
+
 
 
 ## Banco de dados
