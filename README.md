@@ -17,7 +17,7 @@
 
 ## Banco de dados
 ---
-<p align="center"> :red_car: Esse projeto utilizou dados provenientes do DATASUS, IBGE e portal transparência Brasil :red_car: </p>
+<p align="center"> :red_car: Esse projeto utilizou diversos bancos de dados provenientes do DATASUS, IBGE e do Portal de Transparência Brasil. :red_car: </p>
 
 
 
@@ -39,7 +39,7 @@ Visualizar o impacto dos acidentes nas internações e nos gastos hospitalares</
       * Óbitos relacionados ao sexo
       * O tamanho da frota de veículos influencia o número de acidentes?
       * Os investimentos em infraestrutura explicam a queda no número de mortes?
-      * Em números absolutos, quais são os estados/regio]ões mais violentos no trânsito?
+      * Em números absolutos, quais são os estados/regiões mais violentos no trânsito?
       * Em números proporcionais (relação à população), quais são os estados mais violentos no trânsito?
       * Quais são os tipos de acidentes que mais causam mortes?
  
