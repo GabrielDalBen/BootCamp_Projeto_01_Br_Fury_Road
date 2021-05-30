@@ -1,6 +1,6 @@
 <h1 align="center">Brasil Fury Road</h1>
 
-<p align="center">:red_circle::red_circle:ATENÇÃO: Alguns gráficos interativos desse projeto não abrem no GitHub. Acesse o Link:_______________ para visualização completa no Google Colab. :red_circle::red_circle:</p>
+<p align="center">:red_circle::red_circle:ATENÇÃO: Alguns gráficos interativos desse projeto não abrem no GitHub. Acesse o Link: https://colab.research.google.com/drive/1_oY3JtEY_e91XOHdcErtLgA6Cdnf_0uC?usp=sharing para visualização completa no Google Colab. :red_circle::red_circle:</p>
 
 
 ## Descrição do Projeto
